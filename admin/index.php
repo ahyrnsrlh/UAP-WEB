@@ -16,7 +16,11 @@ date_default_timezone_set('Asia/Jakarta');
     <meta name="description" content="Ela Admin - HTML5 Admin Template">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+<<<<<<< HEAD
     <link rel="apple-touch-icon" href="https://i.imgur.com/QRAUqs9.png">
+=======
+    <link rel="apple-touch-icon" href="https://">
+>>>>>>> 6f9d26b7ac5b194c886ec132d8e7f256a2270a75
 
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/normalize.css@8.0.0/normalize.min.css">
@@ -29,7 +33,11 @@ date_default_timezone_set('Asia/Jakarta');
     <link rel="stylesheet" href="assets/css/lib/datatable/dataTables.bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
 
+<<<<<<< HEAD
     <link rel="shortcut icon" type="image/x-icon" href="../images/logo.png">
+=======
+    <link rel="shortcut icon" type="image/x-icon" href="../images/">
+>>>>>>> 6f9d26b7ac5b194c886ec132d8e7f256a2270a75
 
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800' rel='stylesheet' type='text/css'>
 

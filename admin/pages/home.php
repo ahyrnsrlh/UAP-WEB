@@ -32,7 +32,11 @@
                             </div>
                             <div class="card-body" align="center">
                                 <br><br><br><br><br>
+<<<<<<< HEAD
                                 Selamat Datang <b><u><?= $_SESSION['nama'];?></u></b> Di Halaman Admin Panel Hugo - Car Wash
+=======
+                                Selamat Datang <b><u><?= $_SESSION['nama'];?></u></b> Di Halaman Admin Panel Unila Steam
+>>>>>>> 6f9d26b7ac5b194c886ec132d8e7f256a2270a75
                                 <br>
                                 <br><br><br><br>
                             </div>
